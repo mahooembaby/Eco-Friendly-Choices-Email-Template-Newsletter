@@ -1,0 +1,96 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section padding-top="0" padding-bottom="0" padding-left="0" padding-right="0"></mj-section>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#004443">
+    <mj-section background-color="#004443" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+      <mj-column>
+        <mj-image padding-top="35px" width="150px" src="https://i.ibb.co/gSfsDkW/logo-white.png"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#004443" padding-top="20px" padding-bottom="35px">
+      <mj-column border-top="1px solid #eee" border-bottom="1px solid #eee">
+        <mj-navbar>
+          <mj-navbar-link font-size="11px" color="#fff" text-transform="capitalize" href="#">Home&nbsp; |</mj-navbar-link>
+          <mj-navbar-link font-size="11px" color="#fff" text-transform="capitalize" href="#">Page &nbsp; |</mj-navbar-link>
+          <mj-navbar-link font-size="11px" color="#fff" text-transform="capitalize" href="#"> About us &nbsp; |</mj-navbar-link>
+          <mj-navbar-link font-size="11px" color="#fff" text-transform="capitalize" href="#">contact us</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#004443">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/syRTM5q/1699256860871-3.png"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#004443" padding-top="20px" padding-bottom="20px">
+      <mj-column>
+        <mj-text padding-bottom="0" font-size="35px" font-weight="500" color="#fff" align="center">Eco-Friendly Choices</mj-text>
+        <mj-divider width="40%" border-color="#23ff00" border-width="4px" border-style="solid"></mj-divider>
+        <mj-text padding-left="30px" padding-right="30px" padding-bottom="20px" font-size="16px" line-height="18px" color="#fff" align="center">Lorem ipsum been the industry's standard dummy text ever since the 1500s. when an unknown printer took a gallery. Lorem ipsum been the industry's standard dummy text ever since the 1500s.</mj-text>
+        <mj-button href="#" inner-padding="10px 60px" color="#187530" font-weight="600" background-color="#23ff00" padding-bottom="60px">Read More</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section full-width="full-width" background-color="#fff" padding-top="50px" padding-bottom="50px">
+      <mj-column width="35%">
+        <mj-image padding-top="0" padding-bottom="0" padding-left="15px" padding-right="0" src="https://i.ibb.co/T8wy1Tb/1699257291446-4.png"></mj-image>
+      </mj-column>
+      <mj-column width="65%">
+        <mj-text font-size="18px" line-height="20px" font-weight="200" padding-top="40px" padding-left="50px">Lorem ipsum been the industry's standard dummy text ever since the 1500s. when an unknown printer took a gallery. Lorem ipsum been the industry.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#004443" padding-top="50px" padding-bottom="50px">
+      <mj-column>
+        <mj-text font-weight="100" padding-bottom="20px" font-size="16px" line-height="18px" color="#fff" align="center">Lorem ipsum been the industry's standard dummy text ever since the 1500s. when an unknown printer took a gallery. Lorem ipsum been the industry</mj-text>
+        <mj-button href="#" inner-padding="10px 15px" width="50%" color="#187530" font-weight="600" background-color="#23ff00">Read More</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section full-width="full-width" background-color="#fff" padding-top="50px" padding-bottom="50px">
+      <mj-column padding-bottom="25px">
+        <mj-image padding-top="0" padding-bottom="0" padding-left="10px" padding-right="10px" src="https://i.ibb.co/gFdnL1g/1699257533764-5.png"></mj-image>
+        <mj-text padding-top="20px" padding-left="0" padding-right="0" font-weight="400" line-height="16px" font-size="14px" align="center">Lorem ipsum been the industry's standard dummy text ever since the 1500s. when an unknown printer took a gallery.</mj-text>
+        <mj-button href="#" padding-top="20px" inner-padding="10px 70px" color="#187530" font-weight="500" background-color="#23ff00">Read More</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image padding-top="0" padding-bottom="0" padding-left="10px" padding-right="10px" src="https://i.ibb.co/LhQx18t/1699257541031-6.png"></mj-image>
+        <mj-text padding-top="20px" padding-left="0" padding-right="0" font-weight="400" line-height="16px" font-size="14px" align="center">Lorem ipsum been the industry's standard dummy text ever since the 1500s. when an unknown printer took a gallery.</mj-text>
+        <mj-button href="#" padding-top="20px" inner-padding="10px 70px" color="#187530" font-weight="500" background-color="#23ff00">Read More</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#004443" padding-top="50px" padding-bottom="20px">
+      <mj-column>
+        <mj-text align="center">
+          <div>
+            <a href="#"><img style="width:30px; margin-right:10px;" src="https://i.ibb.co/s9bwPzd/facebook.png" /></a>
+            <a href="#"><img style="width:30px; margin-right:10px;" src="https://i.ibb.co/K99PYX3/linkedin.png" /></a>
+            <a href="#"><img style="width:30px; margin-right:10px;" src="https://i.ibb.co/DQMPbPT/instagram.png" /></a>
+            <a href="#"><img style="width:30px; margin-right:10px;" src="https://i.ibb.co/frV22yk/x.png" /></a>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#004443">
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="#ddd" text-transform="uppercase" font-weight="500" line-height="20px">unsubscribe&nbsp;| &nbsp;Privacy policy&nbsp; |&nbsp; web</mj-text>
+        <mj-text align="center" font-size="15px" line-height="18px" padding-left="20px" padding-right="20px" padding-bottom="25px" color="#ddd">Lorem ipsum been the industry's standard dummy text <br />ever since the 1500s. when an unknown printer took a gallery.</mj-text>
+        <mj-divider border-color="#7A7E7B" border-width="2px" border-style="solid"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#004443" padding-top="30px" padding-bottom="50px">
+      <mj-column>
+        <mj-image href="#" width="150px" src="https://i.ibb.co/NVHBnqR/made-logo-white.png"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
